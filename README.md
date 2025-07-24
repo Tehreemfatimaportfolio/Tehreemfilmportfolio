@@ -1,22 +1,2 @@
 # Tehreemfilmportfolio
 An Analog horror based compilation of my unsettling and eerie work
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Portfolio</title>
-  <style>
-    body {
-      background-color: black;
-      color: white;
-      font-family: sans-serif;
-      text-align: center;
-      padding-top: 100px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Welcome to My Portfolio</h1>
-  <p>This is a basic website currently under construction.</p>
-</body>
-</html>
-
